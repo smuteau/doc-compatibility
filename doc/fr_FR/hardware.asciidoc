@@ -1,4 +1,4 @@
-[cols="4*", options="header"] 
+[cols="3*", options="header"] 
 |===
 |Hardware|Etat|Remarques
 |Jeedomboard|Beta||
