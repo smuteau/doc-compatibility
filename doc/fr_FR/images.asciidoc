@@ -6,9 +6,9 @@ Une image netinstall va lors du premier démarrage installer la dernière versio
 [cols="4*", options="header"] 
 |===
 |Images|Hardware|Etat|Remarques
-|Jeedomboard netinstall|jeedomboard et hummingboard|Beta||
-|Odroid c2 netinstall|Odroid C2| Release candidat||
-|RPI|RPI1, RPI2 et RPI3|Non officiel/Stable||
-|Virtual Box|Virtual box|Non officiel/Stable||
-|Jeedomboard|jeedomboard et hummingboard|Stable||
-|Docker||Beta
+|Jeedomboard netinstall|jeedomboard et hummingboard|Beta|
+|Odroid c2 netinstall|Odroid C2| Release candidat|
+|RPI|RPI1, RPI2 et RPI3|Non officiel/Stable|
+|Virtual Box|Virtual box|Non officiel/Stable|
+|Jeedomboard|jeedomboard et hummingboard|Stable|
+|Docker||Beta|

@@ -1,11 +1,11 @@
 [cols="3*", options="header"] 
 |===
 |Hardware|Etat|Remarques
-|Jeedomboard|Beta||
-|Odroid C2|Release candidat||
-|RPI1|Stable||
-|RPI2|Non officiel/Stable||
-|RPI3|Non officiel/Stable|Attention si vous utilisez un razberry le wifi/bluetooth ne pourra marcher|
+|Jeedomboard|Beta|
+|Odroid C2|Release candidat|
+|RPI1|Stable|
+|RPI2|Non officiel/Stable|
+|RPI3|Non officiel/Stable|Attention si vous utilisez un razberry le wifi/bluetooth ne pourra marcher
 |64 bits|Stable|Attention seulement sous debian jessie
-|32 bits|Non supporté||
-|Vmware|Stable|Attention seulement sous debian jessie. Pas de support pour vmware seulement pour jeedom|
+|32 bits|Non supporté|
+|Vmware|Stable|Attention seulement sous debian jessie. Pas de support pour vmware seulement pour jeedom
