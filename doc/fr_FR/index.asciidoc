@@ -10,3 +10,39 @@ include::images.asciidoc[]
 '''
 == Logiciel
 include::software.asciidoc[]
+
+== Clef USB/Module d'extention
+
+- Clef USB EnOcean USB300
+- Clef USB EnOcean USB310 (Recommandé)
+- RFXtrx433E USB (Recommandé)
+- RFXtrx433 USB
+- Dongle Edisio (Recommandé)
+- blink(1) mk2 (Recommandé)
+- HUAWEI E220 (Recommandé)
+- Alcatel one touch X220L
+- HSDPA 7.2MBPS 3G Wireless
+- SIGMA DESIGNS Contrôleur Z-Wave Plus USB
+- AEON LABS Contrôleur Z-Wave Aeon Labs Z-Stick S2
+- Z-WAVE.ME - Mini contrôleur USB Z-Wave Plus
+- AEON LABS - Contrôleur USB Z-Wave Plus Z-Stick GEN5 (Recommandé)
+
+'''
+== Modules Zwave
+Vous trouverez la liste https://www.jeedom.com/doc/documentation/zwave-modules/fr_FR/doc-zwave-modules-equipement.compatible.html[ici]
+
+'''
+== Modules EnOcean
+Vous trouverez la liste https://www.jeedom.com/doc/documentation/enocean-modules/fr_FR/doc-enocean-modules-equipement.compatible.html[ici]
+
+'''
+== Modules Edisio
+Vous trouverez la liste https://www.jeedom.com/doc/documentation/edisio-modules/fr_FR/doc-edisio-modules-equipement.compatible.html[ici]
+
+'''
+== Modules RFXcom
+Vous trouverez la liste https://www.jeedom.com/doc/documentation/rfxcom-modules/fr_FR/doc-rfxcom-modules-equipement.compatible.html[ici]
+
+'''
+== Caméras
+Vous trouverez la liste https://www.jeedom.com/doc/documentation/camera-modules/fr_FR/doc-camera-modules-equipement.compatible.html[ici]
