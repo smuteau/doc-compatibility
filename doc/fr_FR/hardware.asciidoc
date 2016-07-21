@@ -1,7 +1,8 @@
 [cols="3*", options="header"] 
 |===
 |Hardware|Etat|Remarques
-|Jeedomboard|Beta|
+|Jeedomboard|Stable|
+|Hummingboard|Stable|
 |Odroid C2|Release candidat|
 |RPI1|Stable|
 |RPI2|Non officiel/Stable|
