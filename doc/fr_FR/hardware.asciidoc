@@ -9,4 +9,4 @@
 |64 bits|Stable|Attention seulement sous debian jessie
 |32 bits|Non supporté|
 |Vmware|Stable|Attention seulement sous debian jessie. Pas de support pour vmware seulement pour jeedom
-
+|===

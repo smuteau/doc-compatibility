@@ -12,3 +12,4 @@ Une image netinstall va lors du premier démarrage installer la dernière versio
 |Virtual Box|Virtual box|Non officiel/Stable|
 |Jeedomboard|jeedomboard et hummingboard|Stable|
 |Docker||Beta|
+|===
