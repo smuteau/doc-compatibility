@@ -1,0 +1,12 @@
+= Liste de compatibilité Jeedom
+
+== Matériels
+include::hardware.asciidoc[]
+
+'''
+== Images
+include::images.asciidoc[]
+
+'''
+== Logiciel
+include::software.asciidoc[]
