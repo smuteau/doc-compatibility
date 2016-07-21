@@ -51,6 +51,6 @@ Vous trouverez la liste https://www.jeedom.com/doc/documentation/camera-modules/
 
 L'équipe jeedom vous recommande (en fonction de votre budget)
 
-- jeedom mini+ (tout est préinstaller vous n'avez rien à faire)
-- odroid c2 (meilleurs rapport performance/prix)
-- Intel nuc gen6 (des performances extreme, voir la catégorie tuto pour le choix dans les differents model est l'installation)
+- Jeedom mini+ (tout est préinstaller vous n'avez rien à faire)
+- Odroid C2 (meilleurs rapport performance/prix)
+- Intel Nuc gen6 (des performances extreme, voir la catégorie tuto pour le choix dans les differents model est l'installation)
